@@ -3,6 +3,15 @@
     padding: 0;
     box-sizing: border-box ;
 }
+span{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+}
 body{
     display: grid;
     height: 100vh;
@@ -154,7 +163,7 @@ main{
 }
 #resumo > span {
 
-    font-size: 50px;
+    font-size: 45px;
     padding-right: 20px;
     color: white;
 }
